@@ -5,7 +5,7 @@ This repository contains the implementation of the hyperparameter-tuned input la
 
 Below is an overview of the ILR + hyperparameter tuning architecture:
 
-![ILR Architecture](graphical_abstract.pdf)
+![ILR Architecture](/graphical_abstract.png)
 
 ## Initial steps
 
