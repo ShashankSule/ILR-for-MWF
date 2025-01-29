@@ -9,7 +9,7 @@ Below is an overview of the ILR + hyperparameter tuning architecture:
 
 ## Initial steps
 
-First, you are required to move data into this repository from [here](3pe.yml). Note that this link contains *all* of the data generated for our experiments, so if you wish to simply analyse the data and networks that we have trained, you can skip the next section on training and generating data. If you wish to regenerate the data, please also set up a new python environment with the provided `yml` file: 
+First, you are required to move data into this repository from [here](https://umd.box.com/s/ncovxmlq99gs03eaz91gomi9r921yt64). Note that this link contains *all* of the data generated for our experiments, so if you wish to simply analyse the data and networks that we have trained, you can skip the next section on training and generating data. If you wish to regenerate the data, please also set up a new python environment with the provided `yml` file: 
 
 ``` conda env create -f 3pe.yml ```
 
